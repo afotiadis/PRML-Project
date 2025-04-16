@@ -15,20 +15,21 @@ This part comes as an extension of part A. We implement a Bayesian Classifier an
 Using the Iris Dataset from the sklearn library we implement a Decision Tree Classifier and a Random Forest Classifier and we compare, among other characteristics of each classifier, the maximum depth of each one and decide which classifier is more optimal.
 
 # Part D: Classification Algorithm Development
-Training Set: datasetTV.csv:
+- Training Set: datasetTV.csv:
 8743 samples with 224 features per sample, followed by a label (1,...,5) in the last column.
-Test Set: datasetTest.csv:
+- Test Set: datasetTest.csv:
 6955 samples without provided labels.
+
 The goal of this Part is to try out a variety of classifiers, train them using the training set and validate them using the Test Set to determine which one works better with our data. In the end we produce a .npy file with the labels of the Test Set that the Classifier provided us with.
 
 # Repo Contents
-> Team11-AC.ipynb : The solutions of the first three parts
-> Team11-D.ipynb : The solution of the last part
-> PR_Assignment_2024.pdf : The Instructions of the Assignment
-> Team11.pdf : The report in which we analyse our Implementations and present our conclusions
-> labels11.npy : the labels of the Test Set that the Classifier provided us with in part D
-> datasetTV.csv : Training Set used in part D for implementing the classifiers
-> datasetTest.csv :  Test Set used in part D for testing the classifiers' efiiciency
+- Team11-AC.ipynb : The solutions of the first three parts
+- Team11-D.ipynb : The solution of the last part
+- PR_Assignment_2024.pdf : The Instructions of the Assignment
+- Team11.pdf : The report in which we analyse our Implementations and present our conclusions
+- labels11.npy : the labels of the Test Set that the Classifier provided us with in part D
+- datasetTV.csv : Training Set used in part D for implementing the classifiers
+- datasetTest.csv :  Test Set used in part D for testing the classifiers' efiiciency
 
 # Collaborator
 > Panagiotis Mpelantakis
