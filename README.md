@@ -22,13 +22,13 @@ Test Set: datasetTest.csv:
 The goal of this Part is to try out a variety of classifiers, train them using the training set and validate them using the Test Set to determine which one works better with our data. In the end we produce a .npy file with the labels of the Test Set that the Classifier provided us with.
 
 # Repo Contents
->Team11-AC.ipynb : The solutions of the first three parts
->Team11-D.ipynb : The solution of the last part
->PR_Assignment_2024.pdf : The Instructions of the Assignment
->Team11.pdf : The report in which we analyse our Implementations and present our conclusions
->labels11.npy : the labels of the Test Set that the Classifier provided us with in part D
->datasetTV.csv : Training Set used in part D for implementing the classifiers
->datasetTest.csv :  Test Set used in part D for testing the classifiers' efiiciency
+> Team11-AC.ipynb : The solutions of the first three parts
+> Team11-D.ipynb : The solution of the last part
+> PR_Assignment_2024.pdf : The Instructions of the Assignment
+> Team11.pdf : The report in which we analyse our Implementations and present our conclusions
+> labels11.npy : the labels of the Test Set that the Classifier provided us with in part D
+> datasetTV.csv : Training Set used in part D for implementing the classifiers
+> datasetTest.csv :  Test Set used in part D for testing the classifiers' efiiciency
 
 # Collaborator
 > Panagiotis Mpelantakis
